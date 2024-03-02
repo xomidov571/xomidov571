@@ -5,7 +5,7 @@
 
 - 💬 Ask me about C#, .NET
 
-- https://t.me/xomidov571
+- 💻 My telegram https://t.me/xomidov571
 
 <!---
 xomidov571/xomidov571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
