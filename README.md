@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning .NET, DevOps and a lot more tech stuff.
 
 - 💬 Ask me about C#, .NET
+
+- https://t.me/xomidov571
+
 <!---
 xomidov571/xomidov571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
