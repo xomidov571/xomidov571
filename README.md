@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, my name is Nodirbek</h1>
 <h3 align="center"> Software engineer </h3>
-<h4 align="left"> ![RTM LOGO](https://github.com/xomidov571/xomidov571/assets/151355065/f5c7c80c-3ecd-4c69-b82e-35e418931345)![RTM LOGO](https://github.com/xomidov571/xomidov571/assets/151355065/f97b3c68-fc67-44dd-8eb7-a95f9ebd598d)
-![RTM LOGO](https://github.com/xomidov571/xomidov571/assets/151355065/c77486eb-bc31-4396-9c0d-effbba5dc7f9)
- </h4>
-
+<h4 align="left"> Reference </h4>
 
 - 🌱 I’m currently learning .NET, DevOps and a lot more tech stuff.
 
@@ -18,3 +15,4 @@ xomidov571/xomidov571 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->![image](https://github.com/xomidov571/xomidov571/assets/151355065/d2b9dbc1-29a8-4713-9288-eb37541d9443)
 
+![channels4_profile(3)](https://github.com/xomidov571/xomidov571/assets/151355065/b2e2d758-06b7-48e3-b877-986e8367d351)
