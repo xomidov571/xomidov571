@@ -15,3 +15,5 @@ xomidov571/xomidov571 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->![image](https://github.com/xomidov571/xomidov571/assets/151355065/d2b9dbc1-29a8-4713-9288-eb37541d9443)
 
+![photo_2024-03-30_14-08-51](https://github.com/xomidov571/xomidov571/assets/151355065/7c1acba5-0e8b-48d9-855c-dd354436b73d)
+![photo_2024-03-30_14-08-51](https://github.com/xomidov571/xomidov571/assets/151355065/51159be1-7acf-48fd-9f44-e327b0967119)
