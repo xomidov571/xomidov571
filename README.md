@@ -16,5 +16,5 @@
 <!---
 xomidov571/xomidov571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-![RTM LOGO](https://github.com/xomidov571/xomidov571/assets/151355065/e005a202-18b9-44e0-bb9f-446674aae58e)
+--->![image](https://github.com/xomidov571/xomidov571/assets/151355065/d2b9dbc1-29a8-4713-9288-eb37541d9443)
+
