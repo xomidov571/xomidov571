@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Nodirbek</h1>
 <h3 align="center"> Software engineer </h3>
-<h4 align="left"> 🧑🏻‍💻Me now </h4>
+<h4 align="left"> Assalamu alaykum </h4>
 
 
 - 🌱 I’m currently learning .NET, DevOps and a lot more tech stuff.
