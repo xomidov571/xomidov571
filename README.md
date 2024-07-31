@@ -8,7 +8,7 @@
 
 - 📫 How to reach me nodirbekh56@gmail.com
 
-- 💻 My telegram https://t.me/xomidov953
+- 💻 My telegram https://t.me/xomidov222
 
 <!---
 xomidov571/xomidov571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
